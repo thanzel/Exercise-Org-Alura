@@ -21,7 +21,7 @@ function App() {
     },
     {
       id: uuid(),
-      equipo: "Ux y Diseño",
+      equipo: "UX y Diseño",
       foto: "https://github.com/genesysaluralatam.png",
       nombre: "Genesis Rondon",
       puesto: "Desarrolladora de Softwre e Instructura",
