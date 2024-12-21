@@ -1,0 +1,21 @@
+.title {
+    color: #6278F7;
+    font-size: 40px;
+    font-weight: 400;
+    padding-bottom: 24px;
+    border-bottom: 4px solid #6278F7;
+    width: 100%;
+}
+
+.orgSection{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;    
+}
+
+.orgSection img {
+    /* position: absolute; */
+    right: 30%;
+    cursor: pointer;
+    top: 120%;
+}
