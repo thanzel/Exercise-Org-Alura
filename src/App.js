@@ -14,57 +14,57 @@ function App() {
     {
       id: uuid(),
       equipo: "Front End",
-      foto: "https://github.com/christianpva.png",
-      nombre: "Ree",
-      puesto: "ing",
+      foto: "https://github.com/harlandlohora.png",
+      nombre: "Harland Lohora",
+      puesto: "React Devs",
       fav: true
     },
     {
       id: uuid(),
       equipo: "Ux y Diseño",
-      foto: "https://github.com/christianpva.png",
-      nombre: "huy",
-      puesto: "sist",
+      foto: "https://github.com/genesysaluralatam.png",
+      nombre: "Genesis Rondon",
+      puesto: "Desarrolladora de Softwre e Instructura",
       fav: false
     },
     {
       id: uuid(),
       equipo: "Programación",
-      foto: "https://github.com/christianpva.png",
-      nombre: "lok",
-      puesto: "devop",
+      foto: "https://github.com/JeanmarieAluraLatam.png",
+      nombre: "Jeanmarie Quijada",
+      puesto: "Instructura en Alura Latam",
       fav: true
     },
     {
       id: uuid(),
       equipo: "Front End",
       foto: "https://github.com/christianpva.png",
-      nombre: "dar",
-      puesto: "raer",
+      nombre: "Christian Velasco",
+      puesto: "Head de Alura e instructor",
       fav: true
     },
     {
       id: uuid(),
       equipo: "Innovación y Gestión",
-      foto: "https://github.com/christianpva.png",
-      nombre: "lop",
-      puesto: "fgv",
+      foto: "https://github.com/JoseDarioGonzalezCha.png",
+      nombre: "José Gonzalez",
+      puesto: "Dev. FullStack",
       fav: false
     },
     {
       id: uuid(),
       equipo: "DevOps",
       foto: "https://github.com/christianpva.png",
-      nombre: "lyp",
-      puesto: "fgv",
+      nombre: "Christian",
+      puesto: "Devs",
       fav: true
     },
     {
       id: uuid(),
       equipo: "Móvil",
       foto: "https://github.com/christianpva.png",
-      nombre: "lyp",
-      puesto: "fgv",
+      nombre: "Chris",
+      puesto: "Instructor",
       fav: false
     }
   ]) // arreglo vacio o no
